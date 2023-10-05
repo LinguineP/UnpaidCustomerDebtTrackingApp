@@ -14,7 +14,7 @@ namespace dest
     internal class DbConnector
     {
 
-        private string connectionString = "Server=localhost;Port=3306;Database=DestAppDB;User=root;Password=pavle2001;";
+        private string connectionString = "Server=localhost;Port=3306;Database=DestAppDB;User=User1;Password=password124;";
 
 
 
